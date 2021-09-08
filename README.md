@@ -15,3 +15,5 @@ Step 5. Execute "startSwap" from deployer's wallet and set it "true" (without th
 Step 6. Execute "stopSwap" once presale ends and HC is reached.
 
 Step 7. Execute "canClaim" and set it to "true" after adding Liquidity at PCS and NOVASWAP to let investors claim their tokens.
+
+Step 8. Execute "withdrawOtherTokens" to claim any RONIN tokens that are left unsold after presale conclusion.
